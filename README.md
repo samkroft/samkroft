@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @samkroft
-- 👀 I’m interested in Applied Data Analytics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on data insightful projects
+- 👋 Hi, I’m Samuel Ogbangwo (@samkroft)
+- 👀 I’m a programmer & geoscientist.
+- 🌱 I use JavaScript & Python.
 - 📫 How to reach me mailto:nicholas.samuel1709@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play chess and video games for fun.

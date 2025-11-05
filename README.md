@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Samuel Ogbangwo (@samkroft)
-- 👀 I’m a programmer & geoscientist.
-- 🌱 I use JavaScript & Python.
-- 📫 How to reach me mailto:nicholas.samuel1709@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play chess and video games for fun.
+👋 Hello! I'm Samuel Ogbangwo, a dedicated Software Developer.
+
+💻 I specialize in building robust applications, with a keen interest in AI integration and machine learning workflows.
+
+🛠️ Core Technologies: JavaScript, Python, SQL
+
+⚙️ Other Tools: C++, Linux, Git
+
+♟️ Fun Fact: I enjoy a challenging game of chess.
 
 <!---
 samkroft/samkroft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

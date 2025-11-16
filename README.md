@@ -4,7 +4,7 @@
 
 🛠️ Core Technologies: JavaScript, Python, SQL
 
-⚙️ Other Tools: C++, Linux, Git
+⚙️ Other Tools: Dart, Linux, Git
 
 ♟️ Fun Fact: I enjoy a challenging game of chess.
 
